@@ -5,7 +5,7 @@ This project of a Driver / Maid Hiring Management System is build using PHP and 
 Steps to run the project :
 
 1) Dowload and install xampp
-2) Download the zip file of te project
+2) Download the zip file of the project - Driver-Maid-Hiring-Management-System.zip
 3) Extract the files and copy dmhms folder and paste in xampp/htdocs
 4) Run xampp start Apache and MySQL and click admin for MySQL
 5) Open PHPMyAdmin (https://localhost/phpmyadmin)
