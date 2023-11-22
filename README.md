@@ -20,7 +20,9 @@ Password: Test@123
 
 Credentials forUser login Panel :
 
-Email : arghya@gmail.com 
+Email : baban@gmail.com 
 Password: 123
 
 Or create a new account for user
+
+Website link for direct access : https://halting-possibiliti.000webhostapp.com/
